@@ -1,4 +1,5 @@
 from flask import Flask
+from flask_cors import CORS
 import os
 import logging
 from logging.handlers import RotatingFileHandler
@@ -11,6 +12,7 @@ from routes.auth import auth_routes
 load_dotenv()
 
 app = Flask(__name__)
+CORS(app)
 app.config["SECRET_KEY"] = os.getenv("SECRET_KEY")
 
 # ------------------ LOGGING CONFIGURATION ------------------
