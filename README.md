@@ -142,15 +142,18 @@ expense-tracker
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](screensh![login png](https://github.com/user-attachments/assets/ca680342-368e-45cc-bc42-0f5e2db54670)
+ots/login.png)
 
 ### Register Page
 
-![Register](screenshots/register.png)
+![Register](screenshots![Register png](https://github.com/user-attachments/assets/82d5e352-752c-4496-a564-635e4b0822a7)
+/register.png)
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashbo![dashboard png](https://github.com/user-attachments/assets/5010fe37-4c9b-4ea0-82aa-608b91b30be4)
+ard.png)
 
 ---
 
