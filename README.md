@@ -159,7 +159,7 @@ expense-tracker
 Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/expense-tracker.git
+git clone https://github.com/Somacharitha/expense-tracker.git
 ```
 
 Navigate to project directory
@@ -228,4 +228,4 @@ Nagareddy Somacharitha
 Computer Science Engineering Student
 Interested in Full Stack Development and AI-powered Web Applications
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Somacharitha
